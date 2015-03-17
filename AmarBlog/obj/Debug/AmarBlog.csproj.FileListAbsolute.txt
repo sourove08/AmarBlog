@@ -1,0 +1,6 @@
+F:\practice02\AmarBlog\AmarBlog\bin\AmarBlog.dll.config
+F:\practice02\AmarBlog\AmarBlog\bin\AmarBlog.dll
+F:\practice02\AmarBlog\AmarBlog\bin\AmarBlog.pdb
+F:\practice02\AmarBlog\AmarBlog\obj\Debug\AmarBlog.csprojResolveAssemblyReference.cache
+F:\practice02\AmarBlog\AmarBlog\obj\Debug\AmarBlog.dll
+F:\practice02\AmarBlog\AmarBlog\obj\Debug\AmarBlog.pdb
